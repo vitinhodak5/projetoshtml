@@ -1,0 +1,11 @@
+body{
+    background-image: url(fundo.png);
+}
+
+#menu{
+    background-color: rgb(151, 128, 98);
+    width: 66.5%;
+    color: rgb(230, 133, 23);
+    font-size: 31px;
+    line-height: 1.5em;
+}
