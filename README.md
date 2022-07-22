@@ -1,5 +1,5 @@
 # Landingpage
-projetos de html
+Projetos em html
 
 irei postar aqui meus projetos em html/css/php
 
